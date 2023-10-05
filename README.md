@@ -24,6 +24,8 @@ e esse desafio consiste em utilizar 3 strings soma-lás e depois dividi-lás
 
 utilizado também o comando replace para que não me impeça de utilizar a virgula para separar as casas decimais "por utilizar o java aqui no brasil"
 
+---
+
 ### Developer
 
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
