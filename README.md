@@ -10,12 +10,16 @@
 
 ### About:
 
-\nThis challenge refers to the Udemy course class "Complete Java 2022"
-\nand this challenge consists of using 3 strings add them together and then divide them 
-\nI also used the replace command so that it doesn't prevent me from using the comma to separate the decimal places "because I use Java here in Brazil"
+This challenge refers to the Udemy course class "Complete Java 2022"
+
+nand this challenge consists of using 3 strings add them together and then divide them 
+
+nI also used the replace command so that it doesn't prevent me from using the comma to separate the decimal places "because I use Java here in Brazil"
 
 Esse desafio é referente a aula do curso da Udemy "Java 2022 completo"
+
 e esse desafio consiste em utilizar 3 strings soma-lás e depois dividi-lás
+
 utilizado também o comando replace para que não me impeça de utilizar a virgula para separar as casas decimais "por utilizar o java aqui no brasil"
 
 ### Developer
