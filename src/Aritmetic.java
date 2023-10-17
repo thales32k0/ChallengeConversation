@@ -1,4 +1,4 @@
-public class Aritmetico {
+public class Aritmetic {
     public static void main(String[] args) {
 
         System.out.println(2 + 3);
