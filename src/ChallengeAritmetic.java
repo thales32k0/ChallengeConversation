@@ -1,4 +1,4 @@
-public class DesafiosAritmeticos {
+public class CAritmeticos {
 
     public static void main(String[] args) {
 
